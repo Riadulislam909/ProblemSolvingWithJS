@@ -6,4 +6,3 @@ let ordered = nameArray.sort();
 console.log(ordered);
 
 
-
